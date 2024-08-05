@@ -102,6 +102,10 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RKXMTWPN
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for TivaC\Design Rule Check - PCB1.html
+DItemRevisionGUID=
+
 [Parameter1]
 Name=Date
 Value=8/5/2024
