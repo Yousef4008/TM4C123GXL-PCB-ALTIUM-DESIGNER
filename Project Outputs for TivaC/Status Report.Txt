@@ -1,0 +1,18 @@
+Output: Gerber Files
+Type  : Gerber
+From  : Variant [[No Variations]] of Project [TivaC.PrjPcb]
+   Generated File[PCB1.GTO]
+   Generated File[PCB1.GTS]
+   Generated File[PCB1.GTL]
+   Generated File[PCB1.G1]
+   Generated File[PCB1.G2]
+   Generated File[PCB1.GBL]
+   Generated File[PCB1.GBS]
+   Generated File[PCB1.GBO]
+   Generated File[PCB1.GM]
+
+
+Files Generated   : 9
+Documents Printed : 0
+
+Finished Output Generation At 7:54:07 AM On 8/6/2024
